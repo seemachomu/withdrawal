@@ -1,0 +1,9 @@
+/* Custom styles will go here */
+body {
+    background-color: #f0f2f5;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
